@@ -1,5 +1,5 @@
-# 𝐕𝐀𝐑𝐄𝐍𝐀 𝐑𝐎𝐁𝐎 ❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+varina's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+# 𝐓𝐈𝐓𝐀𝐍 𝐗 𝐁𝐎𝐓 ❤
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Titanxbot+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><img src="https://te.legra.ph/file/c37aebd9429b45bdd7255.jpg"></center>
 <br>
