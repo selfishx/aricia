@@ -1,7 +1,7 @@
 {
-  "name": "Varenarobo",
+  "name": "TitanXbot",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://te.legra.ph/file/c37aebd9429b45bdd7255.jpg",
+  "logo": "https://te.legra.ph/file/769b7d5ad8964b4f861e2.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/selfishx/egorobo",
+  "repository": "https://github.com/selfishx/titanxbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
