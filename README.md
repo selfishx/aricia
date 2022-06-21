@@ -1,7 +1,7 @@
 # 𝐓𝐈𝐓𝐀𝐍 𝐗 𝐁𝐎𝐓 ❤
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Titanxbot+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
-<center><img src="https://te.legra.ph/file/c37aebd9429b45bdd7255.jpg"></center>
+<center><img src="https://te.legra.ph/file/769b7d5ad8964b4f861e2.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
