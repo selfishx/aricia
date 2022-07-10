@@ -1,7 +1,7 @@
-# 𝐓𝐈𝐓𝐀𝐍 𝐗 𝐁𝐎𝐓 ❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Titanxbot+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+# 𝐀𝐑𝐈𝐂𝐈𝐀 𝐁𝐎𝐓 ❤
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Aricia+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
-<center><img src="https://te.legra.ph/file/769b7d5ad8964b4f861e2.jpg"></center>
+<center><img src="https://te.legra.ph/file/b71d4dddc0b2aee30c420.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
@@ -11,19 +11,19 @@
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram asി[TitanxBot](https://t.me/Varenarobot).
+Can be found on telegram asി[AriciaBot](https://t.me/Varenarobot).
 
-Kochu and I are moderating a [support group](https://t.me/teamtitanx), where you can ask for help setting up your
+Kochu and I are moderating a [support group](https://t.me/miss_aricia_bot), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/teamtitanx) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/project_anonymous) if you just want to stay in the loop about new features or
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/teamtitanx)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfishx/titanxbot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfishx/aricia)<br>
 
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/teamtitanx)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/teamtitanx)
